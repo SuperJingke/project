@@ -1,0 +1,10 @@
+body{
+   background-color: lightsalmon;
+   }
+   
+  @media screeen and (min-width: 40em){
+    body{
+   background-color: lightsalmon;
+   }
+   
+  }
